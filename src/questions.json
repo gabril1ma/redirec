@@ -1,0 +1,25 @@
+{
+    "fazer teste": [
+        {
+            "question": "Voce já faz ou fez alguma Dieta?",
+            "answers": ["Sim!", "Não"],
+            "correctAnswer": "Sim!"
+        },
+        {
+            "question": "Já fez algum uso de medicamento para Emagrecer?",
+            "answers": ["Faço", "Sim", "Não"],
+            "correctAnswer": "Sim"
+        },
+        {
+            "question": "Você deseja Emagrecer?",
+            "answers": [
+                "Quero Muito!",
+                "Sim!",
+                "Não"  
+            ],
+            "correctAnswer": "Sim!"
+        }    
+    ]
+
+
+}
