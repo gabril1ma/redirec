@@ -1,7 +1,7 @@
 {
     "fazer teste": [
         {
-            "question": "Voce já faz ou fez alguma Dieta?",
+            "question": "Você já faz ou fez alguma Dieta?",
             "answers": ["Sim!", "Não"],
             "correctAnswer": "Sim!"
         },
